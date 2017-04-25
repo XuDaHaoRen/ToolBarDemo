@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToolBarDemo</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+    <string name="quit">退出</string>
+</resources>
